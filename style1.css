@@ -13,7 +13,7 @@
   align-items: center; /* Alinha o texto e a imagem verticalmente */
   gap: 20px; /* Espaçamento entre o texto e a imagem */
   margin-bottom: 40px;
-  justify-content: flex-end; /* Alinha à esquerda */
+  justify-content: flex-start; /* Alinha à esquerda */
 }
 
 .bloco-discreto {
@@ -21,7 +21,7 @@
   align-items: center; /* Alinha o texto e a imagem verticalmente */
   gap: 20px; /* Espaçamento entre o texto e a imagem */
   margin-bottom: 40px;
-  justify-content: flex-start; /* Alinha à esquerda */
+  justify-content: flex-end; /* Alinha à esquerda */
 }
 
 /* Estilização do primeiro parágrafo (Texto 1) */
