@@ -16,6 +16,14 @@
   justify-content: flex-start; /* Alinha à esquerda */
 }
 
+.bloco-direita {
+  display: flex;
+  align-items: center; /* Alinha o texto e a imagem verticalmente */
+  gap: 20px; /* Espaçamento entre o texto e a imagem */
+  margin-bottom: 40px;
+  justify-content: flex-end; /* Alinha à esquerda */
+}
+
 /* Estilização do primeiro parágrafo (Texto 1) */
 .texto-destaque {
   color: #2C3E50; /* Cor forte para o texto (um tom de azul escuro) */
