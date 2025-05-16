@@ -17,7 +17,7 @@
 }
 
 .bloco-discreto {
-  display: flex;
+  display: grid;
   align-items: center; /* Alinha o texto e a imagem verticalmente */
   gap: 20px; /* Espaçamento entre o texto e a imagem */
   margin-bottom: 40px;
