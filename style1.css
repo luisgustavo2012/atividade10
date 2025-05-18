@@ -1,5 +1,5 @@
 /* Container centralizado */
-/* Container centralizado */
+
 .container {
   max-width: 900px;
   margin: 0 auto;
@@ -21,7 +21,7 @@
   align-items: center; /* Alinha o texto e a imagem verticalmente */
   gap: 20px; /* Espaçamento entre o texto e a imagem */
   margin-bottom: 40px;
-  flex: row-reverse; /* Alinha à esquerda */
+  justify-content: flex-end; /* Alinha à esquerda */
 }
 
 /* Estilização do primeiro parágrafo (Texto 1) */
